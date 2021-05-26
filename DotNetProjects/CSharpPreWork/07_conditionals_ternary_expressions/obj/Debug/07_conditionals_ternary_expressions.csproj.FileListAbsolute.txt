@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_ternary_expressions\obj\Debug\07_conditionals_ternary_expressions.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_ternary_expressions\obj\Debug\07_conditionals_ternary_expressions.csproj.CoreCompileInputs.cache

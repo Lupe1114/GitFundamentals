@@ -1,0 +1,22 @@
+.wrapper{
+    background-color: lightgrey;
+    margin: 5px;
+}
+
+
+#number-one{ 
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+}
+
+#number-two{
+    color: red;
+    height: 100px;
+    border-width: 50%;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5px;
+}
